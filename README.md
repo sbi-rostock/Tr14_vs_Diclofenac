@@ -1,4 +1,4 @@
-# Tr14_vs_Diclofenac
+# Network analyses reveal new insights into the effect of multicomponent Tr14 compared to single-component diclofenac in an acute inflammation model
 
 ###### Background
 
